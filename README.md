@@ -1,14 +1,19 @@
 # Ez-Apple
-Apple Mail Valid
+Apple Valid Mail
 
 How To Use:
 
-•first install a module requests, colorama
 
-$pip3 install requests
 
-$ pip3 install colorama
+•First install a module requests, colorama
 
+
+
+$ pip install requests
+
+$ pip install colorama
+
+$ python App.py
 
 
 Note: This program is built in python 3, Use Python3 to run this program
